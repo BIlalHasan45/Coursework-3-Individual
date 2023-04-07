@@ -1,4 +1,4 @@
-CST-3145 Coursework- (Individual)
+CST-3145 Coursework-3 (Individual)
 
 Name: Bilal Hasan
 MISIS: M00912957
